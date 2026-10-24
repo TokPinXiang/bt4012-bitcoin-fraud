@@ -1,0 +1,11 @@
+# competition data (large; downloaded from Kaggle)
+train.csv
+test.csv
+txs_edgelist.csv
+sample_submission.csv
+
+# editor / OS files
+.vscode/
+__pycache__/
+.ipynb_checkpoints/
+~$*
